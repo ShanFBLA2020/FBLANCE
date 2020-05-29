@@ -10,7 +10,7 @@ Install whichever application is assosiated with your Operating System.
 # Installation of the code
 Download XAMPP at https://www.apachefriends.org/download.html
 Create a folder on called ‘template’ under this location: C:\xampp\htdocs\
-Download code from this repository: https://github.com/ShanFBLA2020/Project1 into the template folder of your localhost.
+Download code from this repository: https://github.com/ShanFBLA2020/FBLANCE into the template folder of your localhost.
 Change the Login & password
 If your login is root and password is blank, use the same config.php file
 If your login is root and password is different, change the config.php file
